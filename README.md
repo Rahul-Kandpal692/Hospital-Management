@@ -38,4 +38,4 @@ A comprehensive Hospital Management System built using the MERN stack (MongoDB, 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/hospital-management-system.git](https://github.com/Rahul-Kandpal692/Hospital-Management.git)
+   git clone [[https://github.com/yourusername/hospital-management-system.git](https://github.com/Rahul-Kandpal692/Hospital-Management.git)](https://github.com/Rahul-Kandpal692/Hospital-Management.git)
